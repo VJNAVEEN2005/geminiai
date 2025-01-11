@@ -1,0 +1,2 @@
+(self.webpackChunkgeminiai=self.webpackChunkgeminiai||[]).push([[9118],{672:e=>{e.exports=function(e){return{name:"Julia REPL",contains:[{className:"meta",begin:/^julia>/,relevance:10,starts:{end:/^(?![ ]{6})/,subLanguage:"julia"},aliases:["jldoctest"]}]}}}}]);
+//# sourceMappingURL=react-syntax-highlighter_languages_highlight_juliaRepl.a9cff025.chunk.js.map
